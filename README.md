@@ -20,7 +20,7 @@ Dynamics:
     • Once an offer is accepted by the sponsor, the funds will be transferred from his/her address to Compound and a scholarship is           created for a student. //In the future, sponsors could raise funds by joining pools and fulfilling academies' offers collectively.
     • Interest in Compound is generated in real-time and transferred to an academy's address.
     • To ensure that the student is worthy of the scholarship, she has to take a quiz each month.
-    • If she fails a quiz she gets a warning from the academy. After a certain amount of warnings, the academy can choose to close the           contract and lockout the sponsor’s money.  //Quizzes and warnings can be done off-chain I suppose
+    • If she fails a quiz she gets a warning from the academy. After a certain amount of warnings, the academy can choose to close the         contract and lockout the sponsor’s money.  //Quizzes and warnings can be done off-chain I suppose
     • After passing a certain amount of quizzes and maybe a final exam she will graduate and the sponsor’s funds will be locked out of         Compound and transferred back to the sponsor's address.
     
     
