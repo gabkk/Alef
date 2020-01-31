@@ -8,9 +8,9 @@ Participants:
     • Students
  
 Dynamics: 
-    • Students are chosen by sponsors and academies. //off-chain
+    • Gifted students are chosen by academies. //off-chain
     • Academies present their offers to the sponsors.
-    • An offer includes the gifted online course and its corresponding amount of capital to be locked (The principal).
+    • An offer includes: The academy's name, the gifted online course, and the amount of capital to be locked (The principal).
     • The principal is calculated using this formula:
     
                                Principal = Monthly tuition fees / Interest rate
