@@ -32,7 +32,11 @@ Since Compound’s interest rate changes over time, the principle has to also fo
     Join our discord > https://discordapp.com/invite/n7ZCkM
     Register in our Blockchain academy > https://academy.ivanontech.com/a/17936/fKsHrhAs
     
+    -----------------------------------------------------------------------
     
+    Hi, This was a small project I, Gabba, Ivo and many others made two years ago for the purpose of learning how smart contract development works in practice. We are no longer building Alef Scholarships. Personally, and even though I wouldn't call myself a coder because I really suck at it, I think smart contract technology is overhyped and centralised solutions can be cheaper and more efficient in coordinating financial contracts between two parties. I don't think a smart contract such as this one needs to be immutable nor do I think that it can be. In trying to design this, I noticed that we are replacing middlemen (banks) with other middlemen (devs) haha. This is just my humble opinion. Thank you for everyone who worked with us and I hope we work on something more exciting in the future. Love you all <3
+    
+    Bamskki
     
     
     
